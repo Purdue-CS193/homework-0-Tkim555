@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Taeyeong Kim's First CS193 Homework
+## My favorite things about CS193 
+- Gives useful information
+- Fun
+- Help understanding difficult topics
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
